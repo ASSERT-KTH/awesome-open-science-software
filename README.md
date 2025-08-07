@@ -86,6 +86,7 @@ Software Support for Open Science
 * [codeocean](https://codeocean.com/) Code Ocean is a cloud-based computational reproducibility platform to run scientific code
 * [LabPal](https://liflab.github.io/labpal) is a Java library that allows you to design, control, process and package experiments that are run on a computer, and to streamline the integration of results within a research paper.
 * [OpenChrom](https://openchrom.net) is a cross-platform chromatography data analysis tool with support for both proprietary vendor formats and open alternatives to publish as FAIR data.
+* [Calkit](https://github.com/calkit/calkit) is a project framework and toolkit to help researchers work reproducibly.
 
 Courses
 -------
