@@ -6,7 +6,9 @@ awesome-open-science-software lists resources about open science and software:
 * software as main study object (software engineering, programming language, systems software, ...). 
 * software support for open science (communication, data sharing, etc) 
 
-RSS feed: <https://github.com/INRIA/awesome-open-science-software/commits/master.atom>
+RSS feed: <https://github.com/ASSERT-KTH/awesome-open-science-software/commits/master.atom>
+
+Author: Martin Monperrus & contributors
 
 Community
 ---------
