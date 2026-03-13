@@ -91,8 +91,8 @@ Software Support for Open Science
 * [OpenChrom](https://openchrom.net) is a cross-platform chromatography data analysis tool with support for both proprietary vendor formats and open alternatives to publish as FAIR data.
 * [Calkit](https://github.com/calkit/calkit) is a project framework and toolkit to help researchers work reproducibly.
 * [CiteMe](https://citeme.app) is an AI-powered academic citation generator. It searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and formats references in 40+ citation styles (APA, ABNT, MLA, Chicago). Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
+* [ValiChord](https://github.com/topeuph-ai/ValiChord) — Distributed infrastructure for computational reproducibility validation built on Holochain.
 
-Courses
 -------
 
 * Swedish PhD course ["Tools for reproducible research"](https://nbis-reproducible-research.readthedocs.io/en/latest/). It gives very good pointers.
