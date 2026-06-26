@@ -84,6 +84,7 @@ Software Support for Open Science
 * [Dataverse](https://github.com/IQSS/dataverse) A data repository framework to share and publish research data
 * [Code as a Research Object](http://mozillascience.github.io/code-research-object/) is a prototype integration between Github and figshare.
 * [dokieli](https://dokie.li/) is a client-side editor for decentralised article publishing, annotations and social interactions for science. Its [source code](https://github.com/linkeddata/dokieli) is open source under the Apache License, Version 2.0. Maintained by [Sarven Capadisli](http://csarven.ca/#i) ([Github](https://github.com/csarven)) et al.
+* [Scroll Press](https://scroll.press) is a free, open-source preprint archive for web-native HTML research. Authors upload HTML and receive a permanent URL and a DOI. Every paper has a named human author intellectually responsible for the claims. Holds itself to [ARCH 1.0](https://aris.pub/arch/1.0), a public charter for what a web-native research manuscript must do. Part of [The Aris Program](https://aris.pub).
 * [Open Science Framework (OSF.io)](https://osf.io) provides project management support for researchers across the entire research lifecycle. Developed by the [Center for Open Science](https://cos.io).
 * [Anonymous Github](https://github.com/tdurieux/anonymous_github/) is a system to anonymize open-science Github repositories before referring to them in a double-blind paper submission.
 * [recipy](https://github.com/recipy/recipy) records provenance for Python programs 
