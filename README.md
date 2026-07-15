@@ -95,7 +95,7 @@ Software Support for Open Science
 * [Calkit](https://github.com/calkit/calkit) is a project framework and toolkit to help researchers work reproducibly.
 * [CiteMe](https://citeme.app) is an AI-powered academic citation generator. It searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and formats references in 40+ citation styles (APA, ABNT, MLA, Chicago). Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
 * [ValiChord](https://github.com/topeuph-ai/ValiChord) — Distributed infrastructure for computational reproducibility validation built on Holochain.
-* [CiteVahti](https://github.com/heidihelena/citevahti) checks whether each manuscript claim is supported by the source it cites. Local-first (no manuscript upload), Zotero-integrated, human-first with AI assist; keeps blinded rating records so the claim–source assessment itself is auditable. Apache-2.0.
+* [CiteVahti](https://github.com/heidihelena/citevahti) checks whether each manuscript claim is supported by the source it cites. Local-first (no manuscript upload), Zotero-integrated, human-first with AI assist.
 
 -------
 
