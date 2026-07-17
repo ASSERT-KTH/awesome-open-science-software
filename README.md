@@ -96,6 +96,7 @@ Software Support for Open Science
 * [CiteMe](https://citeme.app) is an AI-powered academic citation generator. It searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and formats references in 40+ citation styles (APA, ABNT, MLA, Chicago). Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
 * [ValiChord](https://github.com/topeuph-ai/ValiChord) — Distributed infrastructure for computational reproducibility validation built on Holochain.
 * [CiteVahti](https://github.com/heidihelena/citevahti) checks whether each manuscript claim is supported by the source it cites. Local-first (no manuscript upload), Zotero-integrated, human-first with AI assist.
+* [SeqBench](https://seqbench.com) is a molecular cloning/CRISPR/sequence-analysis workbench that exposes every calculation (primer design, cloning simulation, CRISPR guide design, sequence analysis) through a REST API with a public [OpenAPI 3.1 spec](https://seqbench.com/openapi.json) and an MCP server. Every API response includes a provenance object (tool name, API version, timestamp) and, where applicable, a typed pass/fail QC gate listing what it does *not* check — so a design step can be scripted, rerun, and cited in a methods section instead of being a one-off GUI action.
 
 -------
 
