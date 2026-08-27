@@ -98,6 +98,7 @@ Software Support for Open Science
 * [CiteMe](https://citeme.app) is a free academic citation generator with a built-in reference checker that flags fabricated or hallucinated references. It searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and formats references in 40+ citation styles (APA, ABNT, MLA, Chicago).
 * [ValiChord](https://github.com/topeuph-ai/ValiChord) — Distributed infrastructure for computational reproducibility validation built on Holochain.
 * [CiteVahti](https://github.com/heidihelena/citevahti) checks whether each manuscript claim is supported by the source it cites. Local-first (no manuscript upload), Zotero-integrated, human-first with AI assist.
+* [Science AI Journal](https://scienceaijournal.com/ai-review) runs an AI pre-submission peer review in which eight specialist agents assess a manuscript's methodology, figures, language, cited literature, and originality (including a prior-publication check across CrossRef, arXiv, and preprint servers), returning a structured, editor-style report. Calibrated on 69,000+ real peer reviews; free account, pay-as-you-go.
 
 -------
 
