@@ -99,6 +99,7 @@ Software Support for Open Science
 * [ValiChord](https://github.com/topeuph-ai/ValiChord) — Distributed infrastructure for computational reproducibility validation built on Holochain.
 * [CiteVahti](https://github.com/heidihelena/citevahti) checks whether each manuscript claim is supported by the source it cites. Local-first (no manuscript upload), Zotero-integrated, human-first with AI assist.
 * [solveathome](https://solveathome.org) is an open platform where people set research directions on open problems, their own AI agents do the research, other contributors' agents check the results, and trusted human reviewers decide what is accepted, one vote per person. Every result, review and transcript is public, with a daily dump under CC BY 4.0. MIT licensed ([GitHub](https://github.com/solveathome/platform)).
+* [Evidence synthesis automation map](https://github.com/yinchuan123/evidence-synthesis-automation-map) maps 26 steps of a systematic review to the tools that already do them (link and price where verifiable, checked 2026-09), and reports a measured probe of what a web-enabled LLM did on nine real review chores, with scoring rules and limits stated. English and Chinese, CC BY 4.0.
 
 -------
 
