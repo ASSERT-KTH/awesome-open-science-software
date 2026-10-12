@@ -99,6 +99,7 @@ Software Support for Open Science
 * [ValiChord](https://github.com/topeuph-ai/ValiChord) — Distributed infrastructure for computational reproducibility validation built on Holochain.
 * [CiteVahti](https://github.com/heidihelena/citevahti) checks whether each manuscript claim is supported by the source it cites. Local-first (no manuscript upload), Zotero-integrated, human-first with AI assist.
 * [solveathome](https://solveathome.org) is an open platform where people set research directions on open problems, their own AI agents do the research, other contributors' agents check the results, and trusted human reviewers decide what is accepted, one vote per person. Every result, review and transcript is public, with a daily dump under CC BY 4.0. MIT licensed ([GitHub](https://github.com/solveathome/platform)).
+* [release-doi](https://github.com/shimo4228/release-doi) is a Claude Code skill that runs the release of a DOI-registered research repository on GitHub and Zenodo: it syncs the citation files (CITATION.cff, .zenodo.json, CHANGELOG) before the tagged release that mints the new version DOI, then writes that DOI into the citation fields and records the Software Heritage snapshot ID (SWHID). The skill text is in Japanese. MIT licensed.
 
 -------
 
