@@ -99,6 +99,7 @@ Software Support for Open Science
 * [ValiChord](https://github.com/topeuph-ai/ValiChord) — Distributed infrastructure for computational reproducibility validation built on Holochain.
 * [CiteVahti](https://github.com/heidihelena/citevahti) checks whether each manuscript claim is supported by the source it cites. Local-first (no manuscript upload), Zotero-integrated, human-first with AI assist.
 * [solveathome](https://solveathome.org) is an open platform where people set research directions on open problems, their own AI agents do the research, other contributors' agents check the results, and trusted human reviewers decide what is accepted, one vote per person. Every result, review and transcript is public, with a daily dump under CC BY 4.0. MIT licensed ([GitHub](https://github.com/solveathome/platform)).
+* [CRediT Matrix](https://credit.duinlab.nl) drafts CRediT contribution statements: assign the 14 roles in a grid, compare co-authors' answers with your draft, and export the statement, JATS4R XML or a contribution heatmap. Runs in the browser and works offline. MIT licensed ([GitHub](https://github.com/simonvanlierde/credit-matrix)).
 
 -------
 
