@@ -100,6 +100,7 @@ Software Support for Open Science
 * [CiteVahti](https://github.com/heidihelena/citevahti) checks whether each manuscript claim is supported by the source it cites. Local-first (no manuscript upload), Zotero-integrated, human-first with AI assist.
 * [solveathome](https://solveathome.org) is an open platform where people set research directions on open problems, their own AI agents do the research, other contributors' agents check the results, and trusted human reviewers decide what is accepted, one vote per person. Every result, review and transcript is public, with a daily dump under CC BY 4.0. MIT licensed ([GitHub](https://github.com/solveathome/platform)).
 * [veripaper](https://github.com/szzxli/veripaper) checks whether the references in a research draft actually exist (Crossref, DataCite, arXiv, Semantic Scholar, Europe PMC, DBLP) and labels each claim verified / cited / unverified / stale rather than guessing. Runs in the browser with no manuscript upload ([live demo](https://szzxli.github.io/veripaper/web/)) or as a Python CLI, and ships a public citation-checking benchmark. MIT licensed.
+* [CRediT Matrix](https://credit.duinlab.nl) drafts CRediT contribution statements: assign the 14 roles in a grid, compare co-authors' answers with your draft, and export the statement, JATS4R XML or a contribution heatmap. Runs in the browser and works offline. MIT licensed ([GitHub](https://github.com/simonvanlierde/credit-matrix)).
 
 -------
 
