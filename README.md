@@ -118,6 +118,3 @@ Software Support for Open Science
 ## Benchmarks
 
 - [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries. Separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, confidence calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
-
-
-
