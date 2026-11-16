@@ -60,6 +60,7 @@ Tools ([edit to add one](https://github.com/INRIA/awesome-open-science-software/
 * [UnitConv](https://unitconv.online/) is a free browser-based unit converter for reproducible engineering and scientific calculations, backed by open conversion test vectors and rounding-validation tools. ([QA dataset](https://github.com/lyakhovpro-pixel/unit-conversion-qa-dataset) | [rounding lab](https://github.com/lyakhovpro-pixel/conversion-rounding-lab))
 * [K-Veritas](https://kveritas.org) Cryptographic verification for computational experiments: wraps any command and seals its results, code, hardware and timing in a signed report anyone can verify, without re-running the code ([docs](https://kveritas.org/docs/index.html), [releases](https://github.com/27-GROUP/kveritas-releases), [source](https://github.com/27-GROUP/kveritas-go)).
 * [SciProof](https://github.com/hayagrivai-labs/sciproof) records computational experiments and creates machine-verifiable evidence manifests: integrity hashes (SHA-256), opt-in re-execution, numerical tolerances (rtol/atol), and direct LaTeX macro exports for paper drafts. Zero runtime dependencies, offline-first, Python 3.11+. MIT licensed ([documentation](https://hayagrivai-labs.github.io/sciproof/), [Zenodo DOI](https://doi.org/10.5281/zenodo.23676138)).
+* [celsus](https://github.com/0ywfe/celsus) is an open-source Python workflow under AGPL-3.0. It reruns an arXiv paper's analysis on public data in a sandbox and reports whether the published numbers hold up.
 
 Software as Research Object
 ---------------------------
