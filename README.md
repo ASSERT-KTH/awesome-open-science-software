@@ -114,6 +114,7 @@ Software Support for Open Science
 -------
 
 * Swedish PhD course ["Tools for reproducible research"](https://nbis-reproducible-research.readthedocs.io/en/latest/). It gives very good pointers.
+* [AI Science Tracker](https://aisciencetracker.org/) is an open catalog of about 5,000 scientific results enabled by AI since 2020, each linked to its original paper or announcement with evidence caveats, shared as JSON/CSV, a static API, Zenodo and Hugging Face datasets and an MCP server. Data CC BY 4.0, code MIT ([GitHub](https://github.com/marcello-pichini/ai-science-tracker)).
 * [Coursera MOOC on Reproducible Research](https://www.coursera.org/learn/reproducible-research)
 
 
